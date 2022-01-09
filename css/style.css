@@ -1,0 +1,40 @@
+html {
+    background-color: bisque;
+
+}
+
+h1 {
+    background-color: blue;
+}
+
+h1 + p {
+    background-color: cyan;
+}
+
+h2 {
+    background-color: coral;
+}
+
+h2 + p {
+    background-color: darkcyan;
+}
+
+.one {
+    color: deepskyblue;
+}
+
+.two {
+    color: dodgerblue;
+}
+
+.three {
+    color: gold;
+}
+
+.four {
+    color: goldenrod;
+}
+
+.five {
+    color: indigo;
+}
